@@ -10,3 +10,10 @@ Repo Name,Username,Stars,Repo URL
 three.js,mrdoob,69700,https://github.com/mrdoob/three.js
 libgdx,libgdx,18300,https://github.com/libgdx/libgdx
 ```
+
+## Output of the project after scrapping in .csv format
+
+![GitHub Logo](Scrapping_1.jpeg))
+
+## opened first csv file output :- 
+![GitHub Logo](Scrapping_2.jpeg)
