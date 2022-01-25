@@ -17,3 +17,9 @@ libgdx,libgdx,18300,https://github.com/libgdx/libgdx
 
 ## opened first csv file output :- 
 ![GitHub Logo](Scrapping_2.jpeg)
+
+## Motivation of making this project 
+- I always wanted to learn how web scraping works with the help of Python , Beautiful Soup and Pandas.
+
+## Wrote a blog on medium , Here's the link of the blog :-
+https://medium.com/@nehasinha18y18/web-scraping-1093d94dd02d
